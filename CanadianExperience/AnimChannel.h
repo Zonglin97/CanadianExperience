@@ -4,7 +4,7 @@
  * \author Charles B. Owen
  *
  * \brief Base class for an animation channel
- * New Commentsdfs aaaah
+ * New Commentsdfs aaaah sdfsdf
  */
 
 #pragma once
